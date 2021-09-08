@@ -14,4 +14,4 @@ if (flag==2)
     console.log('True');
 }
 else
-    console.log('Flase');
+    console.log('False');
